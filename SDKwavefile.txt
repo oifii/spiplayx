@@ -1,0 +1,3 @@
+C:\Program Files\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT\Optional
+
+copied SDKwavefile.h and SDKwavefile.cpp from this SDK folder

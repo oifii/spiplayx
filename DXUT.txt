@@ -1,0 +1,1 @@
+C:\Program Files\Microsoft DirectX SDK (June 2010)\Samples\C++\DXUT\Core
