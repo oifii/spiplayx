@@ -25,6 +25,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="spi.licenseheader" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="spiplayx.rc">
